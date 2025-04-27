@@ -9,21 +9,21 @@ Ascol IT Club is a vibrant student-led organization based at Amrit Science Campu
 - **President:** Sandesh Khadka
 - **Vice President:** Sandeep Shrestha
 - **Secretary:** Saroj Dhakal
-- **Event Head:** Kushal Dhakal
-- **Treasurer:** Sushma Shrestha
+- **Treasurer:** Kushal Dhakal
 - **Graphics Designer:** Krish Shrestha
 - **Tech Lead:** Shreejit Gautam
-- **PR Manager :** 
-- **Social Media Manager :** 
-- **HR Manager :**
+- **Event Head:** Ajita Shrestha
+- **PR Manager :** Rishab Khakurel
+- **Social Media Manager :** Sushma Shrestha
+- **HR Manager :** Ritika Adhikari
 
 ## Executives
 
-- 
-- 
--
--
--
+- Aayusha Adhikari
+- Dinesh Chhetri
+- Rishab Khakurel
+- Roshan Shrestha
+- Rashmi Balami
 
 
 
