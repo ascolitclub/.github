@@ -21,7 +21,7 @@ Ascol IT Club is a vibrant student-led organization based at Amrit Science Campu
 
 - Aayusha Adhikari
 - Dinesh Chhetri
-- Rishab Khakurel
+- Unique Shrestha
 - Roshan Shrestha
 - Rashmi Balami
 
